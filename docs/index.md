@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Marc Philippe Joly's PlayGround
 
-You can use the [editor on GitHub](https://github.com/MarcPhilippeJoly-playground/MarcPhilippeJoly-playground/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- [Marc Philippe Joly's PlayGround](#marc-philippe-jolys-playground)
+  - [Projects](#projects)
+    - [Cosmics](#cosmics)
+    - [Hello Science](#hello-science)
+      - [Game Solving](#game-solving)
+      - [Math displays](#math-displays)
+    - [Instant Page Messer](#instant-page-messer)
+    - [Nessieur](#nessieur)
+    - [Splatcheur](#splatcheur)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Cosmics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A simple 3D particle animator
 
-```markdown
-Syntax highlighted code block
+I have been coding step-by-step simulators and particle clouds since the 90, in languages and for environments that aren't in use anymore. All my first attempts where 2D, though.
 
-# Header 1
-## Header 2
-### Header 3
+It's just an excuse to train with _three.js_, again.
 
-- Bulleted
-- List
+### Hello Science
 
-1. Numbered
-2. List
+A bunch of tiny programs written **in many different languages** that either help **solving math problems** about **puzzles**, **enigmas**, **physics**, **biology**, **games**, etc... or to display view of beautiful math objects.
 
-**Bold** and _Italic_ and `Code` text
+Of course one should use _Wolfram Mathematica_ and _Geogebra_ for this kind of work, but this is all about training myself at writing code in many languages and learn more science by practice. There is nothing like diving right into the complexity of implementation rather than in the documentation of unknown libraries.
 
-[Link](url) and ![Image](src)
-```
+#### Game Solving
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Sudoku and variants
+- picross...triangular or 3D variants for picross...
+- Hanoï tower game and variants
 
-### Jekyll Themes
+#### Math displays
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarcPhilippeJoly-playground/MarcPhilippeJoly-playground/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Syracuse algorithm
+- Complex polynomial fractal sets: Newton, Mandelbrot, Julia&Fatou fractals
 
-### Support or Contact
+### Instant Page Messer
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The most convenient way to turn any web page into complete chaos
+
+Instant Page messer is a silly **Chromium extension** that you can install in Chrome, Brave or the like, that let you **mess with the page you see** in random and unexpected manners just by clicking on a button.
+
+This is an excuse to have fun, train even more with JavaScript, the DOM and CSS, and code my first extension for Chrome.
+
+### Nessieur
+
+A simple 3D chaotic curve animator
+
+This is the 3D resurrections of a 2D project from the early 2000 inspired by a page of the great book _Visions Géométriques_ écrit par *Ian Stewart*. It's also an simple exercice I decided to carry out in order to learn _tree.js_ and update my knowledge in the field of **geometric algebra**.
+
+### Splatcheur
+
+A not so simple painting-with-a-pendular-articulated-arm simulator, with graphic export.
